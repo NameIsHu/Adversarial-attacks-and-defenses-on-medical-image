@@ -7,11 +7,11 @@ Python >=3.8.15
 pip install -r ./requirements.txt  or conda install --yes --file requirements.txt
 
 
-##Datasets:
+## Datasets:
 you can download datasets from :
 
 
-##Usage
+## Usage
 
 densenet.py resnet.py: create classfication model based on original datasets.
 
