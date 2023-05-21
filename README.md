@@ -4,7 +4,7 @@ Code of implementation of adversarial attacks and defense on medical image
 ## Requirements
 Python >=3.8.15
 
-pip install -r ./requirements.txt  or pip install -r ./requirements.txt 
+pip install -r ./requirements.txt  or conda install --yes --file requirements.txt
 
 
 ##Datasets:
