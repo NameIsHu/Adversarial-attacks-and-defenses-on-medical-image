@@ -45,7 +45,6 @@ intel-openmp=2021.4.0=h06a4308_3561
 ipykernel=6.17.1=pypi_0
 ipython=8.6.0=pypi_0
 jedi=0.18.1=pypi_0
-jieba=0.42.1=pypi_0
 joblib=1.2.0=pypi_0
 jpeg=9e=h5eee18b_1
 jupyter-client=7.4.6=pypi_0
