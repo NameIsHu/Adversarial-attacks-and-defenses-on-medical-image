@@ -24,3 +24,5 @@ densenet_all_save.py resnet_all_save.py: create and save adversarial examples
 adversarial...  undercover...   : training adversarial defense model and test accuracy
 
 ## Publication
+
+Our paper “A Multimodal Adversarial Database: Towards A Comprehensive Assessment of Adversarial Attacks and Defenses on Medical Images” has been accepted as a full paper by PSTDA@DSAA2023: The 5th edition of Special Session on Private, Secure, and Trust Data Analytics (PSTDA2023) @ the 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA2023).
